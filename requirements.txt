@@ -1,6 +1,6 @@
 fastapi
 uvicorn
 python-multipart
-PyMuPDF
-fitz
+PyMuPDF==1.23.16
+
 
