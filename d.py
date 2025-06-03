@@ -1,6 +1,5 @@
 from fastapi import FastAPI, File, UploadFile
 from fastapi.responses import JSONResponse
-import shutil
 from pathlib import Path
 import fitz 
 
